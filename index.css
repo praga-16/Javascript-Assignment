@@ -4,6 +4,8 @@ body {
     color: white;
     padding-top: 75px;
     padding-bottom: 50px;
+    background-image: url(bg.jpeg);
+    
 }
 
 .container {
